@@ -7,7 +7,7 @@
     "dev": "nodemon ./bin/www --trace-warnings –trace-sync-io"
   },
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "busca-cep": "^0.5.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
